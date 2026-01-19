@@ -1,2 +1,2 @@
 # Sports_Academy
-My Sports_Academy using MERN
+My Sports_Academy Project using MERN
